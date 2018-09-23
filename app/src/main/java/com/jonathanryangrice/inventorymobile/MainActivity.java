@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
         final AuthState authState = new AuthState(response, error);
 
         if (response != null) {
-            Log.i(LOG_TAG, String.format("Handled Authorization Response %s ", authState.toJsonString()));
+            Log.i(LOG_TAG, String.format("Handled Authorization Response %s ", authState.toJsonString())); 
             AuthorizationService service = new AuthorizationService(this);
             service.performTokenRequest(response.createTokenExchangeRequest(), new AuthorizationService.TokenResponseCallback() {
                 @Override
