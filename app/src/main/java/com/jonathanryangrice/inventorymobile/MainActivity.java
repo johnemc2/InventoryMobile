@@ -63,13 +63,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mMainApplication = (MainApplication) getApplication();
-        mAuthorize = (AppCompatButton) findViewById(R.id.authorize);
-        mMakeApiCall = (AppCompatButton) findViewById(R.id.makeApiCall);
-        mSignOut = (AppCompatButton) findViewById(R.id.signOut);
-        mGivenName = (AppCompatTextView) findViewById(R.id.givenName);
-        mFamilyName = (AppCompatTextView) findViewById(R.id.familyName);
-        mFullName = (AppCompatTextView) findViewById(R.id.fullName);
-        mProfileView = (ImageView) findViewById(R.id.profileImage);
+        mAuthorize = findViewById(R.id.authorize);
+        mMakeApiCall = findViewById(R.id.makeApiCall);
+        mSignOut = findViewById(R.id.signOut);
+        mGivenName = findViewById(R.id.givenName);
+        mFamilyName = findViewById(R.id.familyName);
+        mFullName = findViewById(R.id.fullName);
+        mProfileView = findViewById(R.id.profileImage);
 
         enablePostAuthorizationFlows();
 
@@ -186,12 +186,12 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View view) {
             AuthorizationServiceConfiguration serviceConfiguration = new AuthorizationServiceConfiguration(
-                    Uri.parse("https://accounts.google.com/o/oauth2/v2/auth") /* auth endpoint */,
-                    Uri.parse("https://www.googleapis.com/oauth2/v4/token") /* token endpoint */
+                    Uri.parse("https://www.clover.com/oauth/authorize") /* auth endpoint */,
+                    Uri.parse("https://www.clover.com/oauth/token") /* token endpoint */
             );
 
-            String clientId = "511828570984-fuprh0cm7665emlne3rnf9pk34kkn86s.apps.googleusercontent.com";
-            Uri redirectUri = Uri.parse("https://www.jonathanryangrice.com/blog/mobile-apps/inventory-mobile");
+            String clientId = "***************";
+            Uri redirectUri = Uri.parse("https://www.jonathanryangrice.com/inventory-mobile");
             AuthorizationRequest.Builder builder = new AuthorizationRequest.Builder(
                     serviceConfiguration,
                     clientId,
