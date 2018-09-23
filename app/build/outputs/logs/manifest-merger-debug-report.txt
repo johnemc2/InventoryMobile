@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ec40d3538d35e3b0bc17d08d82d9bee0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2704124dfa1033cf6b96e81d26a33b96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a3550831677d13c2a27b393b5147fbb3\AndroidManifest.xml:2:1-11:12
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:15:1-46:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a7c07edc8821d8bde3514e4623c4d17d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3588c40ebb5c0c5fe09c9740909b04bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\30a8af86387f55e54aaf3a93891b730f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce57589f99e959b8ff382592919d72aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\7df7d6afc38c8efb08443de3015cd015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc7123f92e277a37a37b9d60befbd0c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4194bbc186d8a0d8374d1dbb95dbebd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b09a09e5f9d54da08ea0da709123444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cbefc27d6add83b17ca619885234a1bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bca77a935ee5db61e547d017d94bcabe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f3b44ece44a3f08a3019c6eaeb488319\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35ad646c81be9922c031a70573e90523\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\072674db474e3bd0170e2a747f2fbaa8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2da3274f8a3d81de4922efaaae94cbd7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\127af2f8cef99820dd6fc3b411f11f1c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+	package
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:11-58
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:18:1-54:12
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:19:5-63
+application
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:21:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a3550831677d13c2a27b393b5147fbb3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a3550831677d13c2a27b393b5147fbb3\AndroidManifest.xml:9:5-20
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:26:5-44:19
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:26:5-44:19
+	android:supportsRtl
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.jonathanryangrice.inventorymobile.MainActivity
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:32:27-74
+intent-filter#action:name:com.google.codelabs.appauth.HANDLE_AUTHORIZATION_RESPONSE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:34:13-37:29
+action#com.google.codelabs.appauth.HANDLE_AUTHORIZATION_RESPONSE
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:35:17-99
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:35:25-97
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:36:17-75
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:36:27-73
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:40:9-52:20
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:32:9-43:20
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:32:9-43:20
+	android:exported
+		ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:40:19-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.jonathanryangrice.com+data:path:/blog/mobile-apps/inventory-mobile+data:scheme:https
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:41:13-51:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:45:27-75
+data
+ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:47:17-50:23
+	android:path
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:49:21-70
+	android:host
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:48:21-61
+	android:scheme
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml:47:23-45
+uses-sdk
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ec40d3538d35e3b0bc17d08d82d9bee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ec40d3538d35e3b0bc17d08d82d9bee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2704124dfa1033cf6b96e81d26a33b96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2704124dfa1033cf6b96e81d26a33b96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a3550831677d13c2a27b393b5147fbb3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a3550831677d13c2a27b393b5147fbb3\AndroidManifest.xml:5:5-7:41
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a7c07edc8821d8bde3514e4623c4d17d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a7c07edc8821d8bde3514e4623c4d17d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3588c40ebb5c0c5fe09c9740909b04bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3588c40ebb5c0c5fe09c9740909b04bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\30a8af86387f55e54aaf3a93891b730f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\30a8af86387f55e54aaf3a93891b730f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce57589f99e959b8ff382592919d72aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce57589f99e959b8ff382592919d72aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\7df7d6afc38c8efb08443de3015cd015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\7df7d6afc38c8efb08443de3015cd015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc7123f92e277a37a37b9d60befbd0c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc7123f92e277a37a37b9d60befbd0c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4194bbc186d8a0d8374d1dbb95dbebd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4194bbc186d8a0d8374d1dbb95dbebd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b09a09e5f9d54da08ea0da709123444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b09a09e5f9d54da08ea0da709123444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cbefc27d6add83b17ca619885234a1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cbefc27d6add83b17ca619885234a1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bca77a935ee5db61e547d017d94bcabe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bca77a935ee5db61e547d017d94bcabe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f3b44ece44a3f08a3019c6eaeb488319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f3b44ece44a3f08a3019c6eaeb488319\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35ad646c81be9922c031a70573e90523\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35ad646c81be9922c031a70573e90523\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\072674db474e3bd0170e2a747f2fbaa8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\072674db474e3bd0170e2a747f2fbaa8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2da3274f8a3d81de4922efaaae94cbd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2da3274f8a3d81de4922efaaae94cbd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\127af2f8cef99820dd6fc3b411f11f1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\127af2f8cef99820dd6fc3b411f11f1c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\john_emc2\Desktop\InventoryMobile\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:24:22-64
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:27:9-31:75
+	android:launchMode
+		ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:30:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:28:13-78
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:35:13-42:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:https://www.jonathanryangrice.com/blog/mobile-apps/inventory-mobile
+ADDED from [net.openid:appauth:0.7.1] C:\Users\john_emc2\.gradle\caches\transforms-1\files-1.1\appauth-0.7.1.aar\09d95642f98c64761ad5d9148bc54393\AndroidManifest.xml:35:13-42:29
